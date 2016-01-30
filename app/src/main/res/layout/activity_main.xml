@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.example.cosorio.projectampapplication.MainActivity">
+    tools:context="com.example.cosorio.projectampapplication.MainActivity"
+    android:background="#e9e79c63">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
